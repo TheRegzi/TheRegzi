@@ -13,6 +13,7 @@ I am a Front-End Development student at Noroff Vocational School. I started my s
 - I love music! 😄
 - I often go for a jog outside.
 
+Thank you for visiting my profile on GitHub! Please reach out if you have any interest in connecting with me. 😄
 
  
 📫 How to reach me:
