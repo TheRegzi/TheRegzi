@@ -10,8 +10,9 @@ I am a Front-End Developement student at Noroff Vocational School. I started my 
 - Previously studied Audiology. I wanted to try something else, and coding caught my interest!
 - Have a dog named Nala, she's an Italian Greyhound!
 - Based in Oslo.
+
  
-- 📫 How to reach me:
+  📫 How to reach me:
   [My LinkedIn page](https://www.linkedin.com/in/regine-dille-kornbakk-aa0a7b288/)
 
   
