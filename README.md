@@ -10,7 +10,7 @@ I am a Front-End Development student at Noroff Vocational School. I started my s
 - **Languages:** HTML, CSS, JavaScript
 - **Tools:** Git, VS Code
   
-⚡ Some facts about me:
+### ⚡ Some facts about me:
 - 26 years old.
 - Based in Oslo, Norway. 🏠
 - Previously studied Audiology. I wanted to try something else, and coding caught my interest!
@@ -21,7 +21,7 @@ I am a Front-End Development student at Noroff Vocational School. I started my s
 Thank you for visiting my profile on GitHub! Please reach out if you have any interest in connecting with me. 😄
 
  
-📫 How to reach me:
+### 📫 How to reach me:
   [My LinkedIn page](https://www.linkedin.com/in/regine-dille-kornbakk-aa0a7b288/)
 
   
