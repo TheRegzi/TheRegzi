@@ -5,7 +5,7 @@ I am a Front-End Developement student at Noroff Vocational School. I started my 
 - 🌱 I’ve been learning about design, HTML, CSS and Javascript at my studies so far.
 - 🔭 I’m currently working on a project for myself outside of the studies, which is a weather website called "WeatherWise" which will use a weather API to fetch information about the weather in various places.
   
-- ⚡ Some facts:
+⚡ Some facts:
 - 26 years old.
 - Previously studied Audiology. I wanted to try something else, and coding caught my interest!
 - Have a dog named Nala, she's an Italian Greyhound!
