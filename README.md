@@ -12,7 +12,7 @@ I am a Front-End Developement student at Noroff Vocational School. I started my 
 - Based in Oslo.
 
  
-  📫 How to reach me:
+📫 How to reach me:
   [My LinkedIn page](https://www.linkedin.com/in/regine-dille-kornbakk-aa0a7b288/)
 
   
