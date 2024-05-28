@@ -5,7 +5,7 @@ I am a Front-End Development student at Noroff Vocational School. I started my s
 - 🌱 I’ve been learning about design, project planning, HTML, CSS and Javascript at my studies so far.
 - 🔭 I’m currently working on a project for myself outside of the studies, which is a weather website called "WeatherWise" which will use a weather API to fetch information about the weather in various places.
 
-## 🔧 Skills & Technologies
+### 🔧 Skills & Technologies
 
 - **Languages:** HTML, CSS, JavaScript
 - **Tools:** Git, VS Code
