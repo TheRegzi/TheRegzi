@@ -7,9 +7,12 @@ I am a Front-End Development student at Noroff Vocational School. I started my s
   
 ⚡ Some facts:
 - 26 years old.
-- Previously studied Audiology. I wanted to try something else, and coding caught my interest!
-- Have a dog named Nala, she's an Italian Greyhound!
 - Based in Oslo.
+- Previously studied Audiology. I wanted to try something else, and coding caught my interest!
+- I have a dog named Nala, she's an Italian Greyhound!
+- I love music! 😄
+- I often go for a jog outside.
+
 
  
 📫 How to reach me:
