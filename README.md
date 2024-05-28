@@ -10,7 +10,7 @@ I am a Front-End Development student at Noroff Vocational School. I started my s
 - Based in Oslo, Norway.
 - Previously studied Audiology. I wanted to try something else, and coding caught my interest!
 - I have a dog named Nala, she's an Italian Greyhound!
-- I love music! 😄
+- I love music and gaming! 😄
 - I often go for a jog outside.
 
 Thank you for visiting my profile on GitHub! Please reach out if you have any interest in connecting with me. 😄
