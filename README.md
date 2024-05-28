@@ -2,14 +2,14 @@
 
 I am a Front-End Development student at Noroff Vocational School. I started my studies in August 2023 and will finish in June 2025!
 
-- 🌱 I’ve been learning about design, project planning, HTML, CSS and Javascript at my studies so far.
-- 🔭 I’m currently working on a project for myself outside of the studies, which is a weather website called "WeatherWise" which will use a weather API to fetch information about the weather in various places.
+- 🌱 I’ve been learning about design, project planning, HTML, CSS, and JavaScript at my studies so far.
+- 🔭 I’m currently working on a project for myself outside of the studies, which is a weather website called "WeatherWise". This project will use a weather API to fetch information about the weather in various places.
 
 ### 🔧 Skills & Technologies
 
 - **Languages:** HTML, CSS, JavaScript
 - **Tools:** Git, VS Code
-  
+
 ### ⚡ Some (fun) facts about me:
 - 26 years old.
 - Based in Oslo, Norway. 🏠
@@ -20,9 +20,8 @@ I am a Front-End Development student at Noroff Vocational School. I started my s
 
 Thank you for visiting my profile on GitHub! Please reach out if you have any interest in connecting with me. 😄
 
- 
 ### 📫 How to reach me:
-  [My LinkedIn page](https://www.linkedin.com/in/regine-dille-kornbakk-aa0a7b288/)
+[My LinkedIn page](https://www.linkedin.com/in/regine-dille-kornbakk-aa0a7b288/)
 
   
 <!--
