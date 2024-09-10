@@ -11,7 +11,7 @@ I am a Front-End Development student at Noroff Vocational School. I started my s
 - **Tools:** Git, VS Code
 
 ### ⚡ Some (fun) facts about me:
-- 26 years old.
+- 27 years old.
 - Based in Oslo, Norway. 🏠
 - Previously studied Audiology. I wanted to try something else, and coding caught my interest!
 - I have a dog named Nala, she's an Italian Greyhound! 🐶
