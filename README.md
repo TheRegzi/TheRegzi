@@ -2,8 +2,7 @@
 
 I am a Front-End Development student at Noroff Vocational School. I started my studies in August 2023 and will finish in June 2025!
 
-- 🌱 I’ve been learning about design, project planning, HTML, CSS, and JavaScript at my studies so far.
-- 🔭 I’m currently working on a project for myself outside of the studies, which is a weather website called "WeatherWise". This project will use a weather API to fetch information about the weather in various places.
+- 🌱 I’ve been learning about design, project planning, HTML, CSS, and JavaScript, TypeScript and Node at my studies so far.
 
 ### 🔧 Skills & Technologies
 
@@ -16,7 +15,7 @@ I am a Front-End Development student at Noroff Vocational School. I started my s
 - Previously studied Audiology. I wanted to try something else, and coding caught my interest!
 - I have a dog named Nala, she's an Italian Greyhound! 🐶
 - I love music and gaming! 🔉🎮
-- I often go for a jog outside. 🏃
+- I like to exercise. 🏃
 
 Thank you for visiting my profile on GitHub! Please reach out if you have any interest in connecting with me. 😄
 
