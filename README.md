@@ -6,7 +6,7 @@ I am a Front-End Development student at Noroff Vocational School. I started my s
 
 ### 🔧 Skills & Technologies
 
-- **Languages:** HTML, CSS, JavaScript
+- **Languages:** HTML, CSS, JavaScript, TypeScript, React
 - **Tools:** Git, VS Code
 
 ### ⚡ Some (fun) facts about me:
