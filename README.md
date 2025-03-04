@@ -2,7 +2,7 @@
 
 I am a Front-End Development student at Noroff Vocational School. I started my studies in August 2023 and will finish in June 2025!
 
-- 🌱 I’ve been learning about design, project planning, HTML, CSS, and JavaScript, TypeScript and Node at my studies so far.
+- 🌱 I’ve been learning about design, project planning, HTML, CSS, and JavaScript, TypeScript, Node, Vite, Webpack and React at my studies so far.
 
 ### 🔧 Skills & Technologies
 
