@@ -1,15 +1,20 @@
 ## Hi there 👋
 
-I am a Front-End Development student at Noroff Vocational School. I started my studies in August 2023 and will finish in June 2025!
+My name is Regine, and I am a passionate web developer with a skill for creating elegant and efficient solutions. I thrive on turning complex problems into simple, beautiful designs.
 
-- 🌱 I’ve been learning about design, project planning, HTML, CSS, and JavaScript, TypeScript, Node, Vite, Webpack and React at my studies so far.
+- 🎓 I started studying Front-end development at Noroff Vocational School in august 2023, and will finish in June 2025.
+- 🌱 I’ve learned about design, project planning, agile methods, HTML, CSS, and JavaScript, TypeScript, Node, Vite, Webpack and React at my studies.
 
 ### 🔧 Skills & Technologies
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript, React
-- **Tools:** Git, VS Code
+- **Languages/Runtime:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js
+- **Tools:** Git, GitHub, VS Code, Figma, Postman, Webpack, Vite, npm
+- **Styling & UI:** Tailwind CSS, Bootstrap, Styled Components, Sass
+- **Methodologies:** Agile (Scrum), Test-Driven Development
+- **Testing / QA:** Jest, Vitest, React-testing-library, Cypress
+- **Soft Skills:** Problem-solving, Team collaboration, Time management, Communication
 
-### ⚡ Some (fun) facts about me:
+### ⚡ Some facts about me:
 - 27 years old.
 - Based in Oslo, Norway. 🏠
 - Previously studied Audiology. I wanted to try something else, and coding caught my interest!
