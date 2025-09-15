@@ -2,8 +2,8 @@
 
 My name is Regine, and I am a passionate web developer with a skill for creating elegant and efficient solutions. I thrive on turning complex problems into simple, beautiful designs.
 
-- 🎓 I started studying Front-end development at Noroff Vocational School in august 2023, and will finish in June 2025.
-- 🌱 I’ve learned about design, project planning, agile methods, HTML, CSS, and JavaScript, TypeScript, Node, Vite, Webpack and React at my studies.
+- 🎓 I started studying Front-end development at Noroff Vocational School in august 2023, and finished in June 2025.
+- 🌱 I’ve learned about design, project planning, agile methods, HTML, CSS, and JavaScript, TypeScript, Node, Vite, Webpack and React at my studies, + more.
 
 ### 🔧 Skills & Technologies
 
@@ -15,7 +15,7 @@ My name is Regine, and I am a passionate web developer with a skill for creating
 - **Soft Skills:** Problem-solving, Team collaboration, Time management, Communication
 
 ### ⚡ Some facts about me:
-- 27 years old.
+- 28 years old.
 - Based in Oslo, Norway. 🏠
 - Previously studied Audiology. I wanted to try something else, and coding caught my interest!
 - I have a dog named Nala, she's an Italian Greyhound! 🐶
