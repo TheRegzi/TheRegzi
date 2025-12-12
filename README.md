@@ -17,8 +17,8 @@ My name is Regine, and I am a passionate web developer with a skill for creating
 ### ⚡ Some facts about me:
 - 28 years old.
 - Based in Oslo, Norway. 🏠
-- Previously studied Audiology. I wanted to try something else, and coding caught my interest!
-- I have a dog named Nala, she's an Italian Greyhound! 🐶
+- I have a bachelor in Audiology from 2019. I wanted to try something else, and coding caught my interest!
+- My dog is named Nala, she's an Italian Greyhound! 🐶
 - I love music and gaming! 🔉🎮
 - I like to exercise and spend time with friends and family.
 
